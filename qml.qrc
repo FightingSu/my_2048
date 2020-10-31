@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>NumberBlock.qml</file>
+        <file>methods.js</file>
+        <file>GridField.qml</file>
+        <file>ScoreBoard.qml</file>
+        <file>RoundButton.qml</file>
+    </qresource>
+</RCC>
