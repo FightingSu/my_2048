@@ -2,18 +2,18 @@
 
 A simple implementation of 2048 using Qt Quick. 
 
-Since Qt Quick supported many platforms such as Android, iOS and Windows etc., the motivation doing this for me is to have a try of Qt Quick, and also have a glimpse of the process of mobile application development.
+Since Qt Quick supported many platforms like Android, iOS, Windows and etc., the motivation doing this for me is to have a try of Qt Quick, and also have a glimpse of the process of mobile application development.
 
 Personally, this application mainly focused on:
 
 + animation effect of mobile apps
 + how mobile apps manage the layout of widgets
 
-In terms of functionality, most functionalities was achieved:
+In terms of functionality, most functions are achieved:
 
 + scoreboard
 + restart game
-+ amination
++ animation
 
 Here is a simple preview GIF of the application:
 
